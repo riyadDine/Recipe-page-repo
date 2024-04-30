@@ -24,7 +24,7 @@ A solution that presents cooking instructions, ingredient lists, and tips for ma
 ### Links
 
 - Solution URL: (https://github.com/riyadDine/Recipe-page-repo)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://riyaddine.github.io/Recipe-page-repo/)
 
 ### Built with
 
